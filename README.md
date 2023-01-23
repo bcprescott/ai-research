@@ -11,7 +11,7 @@ In the "scripts" folder you'll find supporting scripts for aiding in research, s
 * requirements.txt - Python libraries needed to run the files
 * searchArxiv.py - covered in next section
 
-### searchArxiv `#f03c15`
+### searchArxiv
 
 searchArxiv.py is a small helper script for finding and downloading relevant research papers from the popular article distribution service, arXiv.
 
