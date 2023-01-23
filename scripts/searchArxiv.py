@@ -1,7 +1,6 @@
 import arxiv
 import re
 import os
-import time
 import argparse
 from sys import platform
 from datetime import datetime, timedelta
